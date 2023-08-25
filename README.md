@@ -1,4 +1,5 @@
 [![MasterHead](https://cdn.dribbble.com/users/214929/screenshots/4366947/media/ad7632627df868ba4c04668d7c96266e.gif)]
+<img alt="Coding" width="600" height="400" src="https://cdn.dribbble.com/users/214929/screenshots/4366947/media/ad7632627df868ba4c04668d7c96266e.gif">
 # Redeem Page Design
 
 This is a project that showcases a redeem page design using HTML, CSS, and JavaScript.
