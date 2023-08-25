@@ -1,4 +1,4 @@
-[![MasterHead].https://media.giphy.com/media/K5kfQExKk731K/giphy.gif].
+[![MasterHead].(https://media.giphy.com/media/K5kfQExKk731K/giphy.gif)].
 # Redeem Page Design
 
 This is a project that showcases a redeem page design using HTML, CSS, and JavaScript.
