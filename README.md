@@ -1,4 +1,4 @@
-<img width="1000" height="200" src="https://th.bing.com/th/id/R.426578508f49493fc6a6f58c076a17ee?rik=NQYRPeUHo7AKCQ&riu=http%3a%2f%2fi.imgur.com%2fetA2CVP.gif&ehk=lA2R%2bs%2bsapfSrbtCRR6vQMRidXD2eu%2baT3Pf2cP4Qjo%3d&risl=&pid=ImgRaw&r=0">
+<img width="1000" height="300" src="https://th.bing.com/th/id/R.426578508f49493fc6a6f58c076a17ee?rik=NQYRPeUHo7AKCQ&riu=http%3a%2f%2fi.imgur.com%2fetA2CVP.gif&ehk=lA2R%2bs%2bsapfSrbtCRR6vQMRidXD2eu%2baT3Pf2cP4Qjo%3d&risl=&pid=ImgRaw&r=0">
 
 ## Redeem Page Design
 
