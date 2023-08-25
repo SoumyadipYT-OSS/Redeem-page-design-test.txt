@@ -1,4 +1,4 @@
-<img width="960" height="330" src="https://camo.githubusercontent.com/9c44c09024aa2d7f0b3393f61945872dab333a91ef0c898f418df2e403959fa8/68747470733a2f2f696d6775722e636f6d2f6e7551626e34382e676966">
+<img width="900" height="330" src="https://camo.githubusercontent.com/9c44c09024aa2d7f0b3393f61945872dab333a91ef0c898f418df2e403959fa8/68747470733a2f2f696d6775722e636f6d2f6e7551626e34382e676966">
 
 ## Redeem Page Design
 
